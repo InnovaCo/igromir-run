@@ -1,5 +1,5 @@
 ﻿CACHE MANIFEST
-#1474905807
+#1474987433
 data.js
 c2runtime.js
 jquery-2.1.1.min.js
@@ -88,6 +88,13 @@ images/enemygang-sheet0.png
 images/enemyball-sheet0.png
 images/enemyball-sheet1.png
 images/enemyball-sheet2.png
+images/gaben-sheet0.png
+images/gaben-sheet1.png
+images/coin-sheet0.png
+images/coin-sheet1.png
+images/enemyacid-sheet0.png
+images/enemyacid-sheet1.png
+images/enemymakar-sheet0.png
 images/cuttouchhand-sheet0.png
 images/cutshoothand-sheet0.png
 images/progressor-sheet0.png
@@ -106,6 +113,7 @@ images/endtitle-sheet0.png
 images/endfacebookbutton-sheet0.png
 images/endvkbutton-sheet0.png
 images/endxxx-sheet0.png
+images/sprite4-sheet0.png
 images/peopleairat-sheet0.png
 images/peoplealexey-sheet0.png
 images/peoplegoatbeard-sheet0.png
@@ -132,16 +140,10 @@ images/peopleairatanus-sheet2.png
 images/mainaction-sheet0.png
 images/siner-sheet0.png
 images/sprite-sheet0.png
-images/enemyacid-sheet0.png
-images/enemyacid-sheet1.png
 images/sprite3-sheet0.png
-images/gaben-sheet0.png
-images/gaben-sheet1.png
 images/sprite6-sheet0.png
-images/coin-sheet0.png
-images/coin-sheet1.png
 images/crush-sheet0.png
-images/sprite4-sheet0.png
+images/taper-sheet0.png
 media/hit.m4a
 media/hit.ogg
 media/magic.m4a
